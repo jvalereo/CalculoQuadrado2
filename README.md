@@ -30,7 +30,7 @@
 
 # Sobre o Projeto
 
-- Programa básico,Calcule a area do quadrado,no console, e execulta o resultado na tela.
+- Programa básico, calcule a area do quadrado, no console, e execulta o resultado na tela.
 - Projeto foi implemetado no console.
 - IDE Eclipse
 
